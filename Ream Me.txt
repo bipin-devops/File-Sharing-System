@@ -1,0 +1,22 @@
+Webiste Topic : Learn
+Features : File Sharing Online Site
+
+
+database name : tbc
+
+Backend Url :http://localhost/project/admin/admin_login.php
+
+Super Admin
+username : admin
+password : admin
+
+Admin
+username : nikita
+password : nikita
+
+frontend Url : http://localhost/project/pages/index.php
+username : suraj
+password : suraj
+
+username: shyam
+password : shyam
